@@ -1,0 +1,19 @@
+{
+  "name": "live-11",
+  "version": "1.0.0",
+  "description": "Cypress Studio and Logs",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "faker": "^5.4.0"
+  }
+}
